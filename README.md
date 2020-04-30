@@ -21,3 +21,9 @@ sudo ./output.sh
 ```
  make clean
 ```
+
+### Report
+- https://github.com/momo1106github/OS_Project1/blob/master/Report.pdf
+
+### Demo
+- https://www.youtube.com/watch?v=mWv2jfyuxJ0
